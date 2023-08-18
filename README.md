@@ -23,8 +23,37 @@ When a pull request is closed, the app automatically creates an issue that promp
 Note: *If the env file does not contain a Language API Key or Endpoint, the analysis will be skipped and the default language will always be English.*
 
 ### Sample screenshot of a survey 
+### Copilot Usage Survey
 
-![Sample screenshot of a survey](image.png)
+1. ***Did you use Copilot in developing this PR? (If you select No, just answer question 5***
+- [ ] No
+- [ ] Yes
+
+2. Compared to your previous experience coding WITHOUT using Copilot (This number represents 100%)
+
+   ***How much less time did the coding take during this PR with Copilot?***
+   
+   (Example: The PR would normally take 5 days, but only took 4 days with Copilot then the answer is 20%)
+- [ ] 0%
+- [ ] > 0% but < 10%
+- [ ] > 11% but < 20%
+- [ ] > 21% but < 30%
+- [ ] ≥ 31% but < 40%
+- [ ] ≥ 41%
+
+3. ***Describe your thought process for calculating (or estimating) the time saved in Question 2***
+    
+ - [ replace this line with your answer. ]
+
+4. ***How often did you use Copilot in this PR?***
+- [ ] All or most of the time
+- [ ] About Half of the time
+- [ ] Some of the time
+- [ ] Not very much
+
+5. ***What other information can you share about Copilot's ability to save you time coding?*** 
+
+ - [ replace this line with your answer. ]
 
 ### Where does the app store surveys?
 
