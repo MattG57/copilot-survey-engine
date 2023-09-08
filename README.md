@@ -4,11 +4,11 @@
 
 ## App Objective
 
-As more companies adopt GitHub Copilot, it becomes increasingly important to measure the benefits it brings to the organization. While quantitative analysis is valuable for measuring usage patterns and adoption rates, it is equally essential to consider qualitative analysis. By combining both quantitative and qualitative approaches, we can gain a comprehensive understanding of the developer experience when using this tool.
+As more companies adopt GitHub Copilot, it becomes increasingly important to measure the benefits it brings to the organization. This survey is an effort to combine both quantitative and qualitative data. To improve validity of the quantitative responses, Developers are asked to document their rationale for the time-savings percentage they choose. 
 
-Quantitative analysis provides valuable insights, but it alone cannot capture the full story of how developers truly feel about Copilot. This is particularly important because Copilot offers various ways for developers to interact with it and derive value, some of which may not be captured by current Key Performance Indicators (KPIs).
+Quantitative feedback from the Developer at the time of creating a PR provides valuable insights on the time savings experienced by the Developer. Time savings is needed first before other downstream impacts (like velocity increases, or other improvements can happen. The level of granularity provides multiple feedback opportunities for Developers and can capture a variety of PRs so we can understand adoption challenges and improvement opportunities. If helpful, the Survey results may also be combined with Key Performance Indicators (KPIs) that the product provides to further contextualize the survey responses.
 
-To gain a deeper understanding of user satisfaction, we have designed this app a part of the DevOps lifecycle to facilitate qualitative surveys. The survey responses are stored in your private Azure SQL database to provide insights into how developers are using the tool, the value they perceive, and the challenges they encounter.
+The survey responses are stored in your private Azure SQL database to provide insights into how developers are using the tool, the value they report, and the challenges they encounter.
 
 We hope that this project provides value to your organization, and we encourage you to contribute and build upon it. Your contributions can help further enhance the survey capabilities and provide even greater insights into the developer experience with Copilot.
 
