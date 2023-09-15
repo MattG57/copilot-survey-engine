@@ -29,7 +29,7 @@ Note: *If the env file does not contain a Language API Key or Endpoint, the anal
 - [ ] No
 - [ ] Yes
 
-2. Compared to your previous experience coding WITHOUT using Copilot (This number represents 100%)
+2. Compared to your previous experience coding WITHOUT using Copilot, 
 
    ***How much less time did the coding take during this PR with Copilot?***
    
