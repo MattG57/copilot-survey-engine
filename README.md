@@ -1,6 +1,6 @@
 # copilot-survey-engine
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) to prompt developers about their experience with Copilot!
+> A GitHub App built with [Probot](https://github.com/probot/probot) to get developer reports about their efficiency gain with Copilot!
 
 ## App Objective
 
