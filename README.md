@@ -108,7 +108,7 @@ Make sure you have your app installed in at least one repo.
 
 In such repo, create a pull request and close it (either close it or merge/complete it). Confirm that an issue has been created with the name "Copilot Usage - PR#XX". Answer the questions and confirm that the issue is closed and the data has been recorded into your database. 
 
-Congrats!!!!! Enjoy and keep expanding the project. 
+Congrats!!!!! Enjoy and keep expanding the project! 
 
 ## Contributing
 
